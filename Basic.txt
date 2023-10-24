@@ -1,0 +1,5 @@
+Pouvez-vous me dire quelle est la différence entre Fast Ethernet 0/1 et 1/1 ?
+
+Réponse :
+
+Fast Ethernet 0/1 et 1/1 sont des noms pour des ports sur des appareils réseau comme des commutateurs ou des routeurs. La différence est que "0/1" signifie le premier port dans le premier emplacement, tandis que "1/1" signifie le premier port dans le deuxième emplacement. Ces noms aident à identifier où se trouvent les ports dans l'appareil.
